@@ -1,4 +1,4 @@
-# 👋 Xin chào!
+# 👋 你好!
 
 Mình là **Huỳnh Phước Thanh**, dưới đây là một vài thông tin về bản thân mình:
 
